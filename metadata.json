@@ -1,0 +1,6 @@
+{
+  "name": "SMV Ladder Planner",
+  "description": "Industrial engineering SMV line balancing, production ramp-up ladder planner, and line layout PDF generator for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
